@@ -1,6 +1,6 @@
 ## Dilmaca
 
-Dilmaca is an English to Turkish machine translation tool written in Java.
+Dilmaca is an English to Turkish machine translation software written in Java.
 
 * Author: Emre Sokullu
 * Written in: 2002-2003
